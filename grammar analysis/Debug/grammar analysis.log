@@ -1,0 +1,14 @@
+﻿  main.cpp
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(200): warning C4018: “>=”: 有符号/无符号不匹配
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(203): warning C4018: “>=”: 有符号/无符号不匹配
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(210): warning C4018: “>=”: 有符号/无符号不匹配
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(243): warning C4018: “>=”: 有符号/无符号不匹配
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(264): warning C4018: “>=”: 有符号/无符号不匹配
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(278): warning C4018: “>=”: 有符号/无符号不匹配
+e:\c++workspace\grammar analysis\grammar analysis\main.cpp(285): warning C4018: “>=”: 有符号/无符号不匹配
+  grammar analysis.vcxproj -> E:\C++workSpace\grammar analysis\Debug\grammar analysis.exe
+  grammar analysis.vcxproj -> E:\C++workSpace\grammar analysis\Debug\grammar analysis.pdb (Partial PDB)

@@ -1,0 +1,86 @@
+into 词法分析
+字符: a  类别:2
+字符: =  类别:4
+字符: (  类别:5
+字符: (  类别:5
+字符: 23123  类别:3
+字符: +  类别:4
+字符: 5.00  类别:3
+字符: +  类别:4
+字符: a  类别:2
+字符: *  类别:4
+字符: b  类别:2
+字符: -  类别:4
+字符: c  类别:2
+字符: *  类别:4
+字符: 2  类别:3
+字符: )  类别:5
+字符: )  类别:5
+字符: ;  类别:5
+字符: b  类别:2
+字符: =  类别:4
+字符: a  类别:2
+字符: ;  类别:5
+字符: b  类别:2
+字符: =  类别:4
+字符: ;  类别:5
+字符: e  类别:2
+字符: =  类别:4
+字符: (  类别:5
+字符: 231  类别:3
+字符: )  类别:5
+字符: +  类别:4
+字符: (  类别:5
+字符: a  类别:2
+字符: -  类别:4
+字符: b  类别:2
+字符: )  类别:5
+字符: *  类别:4
+字符: (  类别:5
+字符: a  类别:2
+字符: )  类别:5
+字符: ;  类别:5
+into 语法分析
+into S()
+into E()
+into T()
+into F()
+into E()
+into T()
+into F()
+into E()
+into T()
+into F()
+into H()
+into G()
+into T()
+into F()
+into H()
+into G()
+into T()
+into F()
+into H()
+into F()
+into H()
+into G()
+into T()
+into F()
+into H()
+into F()
+into H()
+into G()
+into H()
+into G()
+into H()
+into G()
+into S()
+into E()
+into T()
+into F()
+into H()
+into G()
+into S()
+into E()
+into T()
+into F()
+符号不匹配
